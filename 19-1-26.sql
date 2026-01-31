@@ -1,3 +1,4 @@
+
 create table bindas(
 id number(10),
 name VARCHAR2(30) not null,
